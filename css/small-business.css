@@ -31,3 +31,7 @@ a.anchor {
     top: -25px;
     visibility: hidden;
 }
+
+#travelMap{
+    display: block;
+}
